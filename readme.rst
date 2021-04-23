@@ -54,11 +54,11 @@ agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/so
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
 
---------ROADMAP PROJECT INI-------------
-(V 1.0)
+>>--------ROADMAP PROJECT INI-------------
+(V 1.0)\
 = buat fitur di mana pengguna pertama kali masuk adalah mengakses halaman index yang berisi konten kolam koding
-= buat fitur di mana pengguna dapat mendaftar sebagai keanggotaan di sini
-= buat fitur di mana pengguna dapat menambahkan foto profil pada akun nya
+= buat fitur di mana pengguna dapat mendaftar sebagai keanggotaan di sini\
+= buat fitur di mana pengguna dapat menambahkan foto profil pada akun nya\
 = buat fitur di mana adanya batasan khusus untuk beberapa akun semisal akun admin dapat mengakses halaman data sedangkan anggota biasa hanya index
 = buat fitur di mana pengguna dapat login dan dapat meninggalkan sebuah feedback
 = buat login di mana pengguna dapat memberikan bintang pada setiap ulasan
