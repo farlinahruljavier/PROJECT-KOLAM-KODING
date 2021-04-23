@@ -1,65 +1,36 @@
-###################
-What is CodeIgniter
-###################
+# Kolam Koding app
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+Especially build by kolam koding community.
 
-*******************
-Release Information
-*******************
+Selamat datang di repostiori project ini, sebelumnya terima kasih karena teman-teman sudah meluangkan waktu untuk berkunjung. repo ini sementara akan saya khususkan untuk komunitas kolam koding, mungkin teman di luar komunitas yang kontribusi bisa sertakan atas nama komunitas mana di discussion dan saya akan menambahkan credit nya di bawah, happy code, still learn and learn.
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
 
-**************************
-Changelog and New Features
-**************************
+## Development setup
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+- gunakan xammp
+- gunakan browser
+- gunakan text editor seperti visual code
+- ekstensi code(opsional) > php intellisense
 
-*******************
-Server Requirements
-*******************
+## Release History
 
-PHP version 5.6 or newer is recommended.
+* 0.0.1
+    * Work in progress
+    * menambah fitu di mana user bisa login
+    * menambah fitur di mana user bisa memberi foto pada profil
+    * memberi perbedaan hak akses pada setiap akun
+    * membuat halaman index untuk konten
+    * membuat halaman login
 
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
 
-************
-Installation
-************
+## How to Contributing.
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
+1. Fork it (<https://github.com/yourname/yourproject/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
 
-*******
-License
-*******
+## Contributor
 
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
-
->>--------ROADMAP PROJECT INI-------------
-(V 1.0)\
-= buat fitur di mana pengguna pertama kali masuk adalah mengakses halaman index yang berisi konten kolam koding
-= buat fitur di mana pengguna dapat mendaftar sebagai keanggotaan di sini\
-= buat fitur di mana pengguna dapat menambahkan foto profil pada akun nya\
-= buat fitur di mana adanya batasan khusus untuk beberapa akun semisal akun admin dapat mengakses halaman data sedangkan anggota biasa hanya index
-= buat fitur di mana pengguna dapat login dan dapat meninggalkan sebuah feedback
-= buat login di mana pengguna dapat memberikan bintang pada setiap ulasan
-= buat fitur kolom chat untuk chat secara langsung dengan komunitas
+1. Fernanda Ma'Rouf >>https://github.com/Im-Fernanda / Fernanda_fmr
